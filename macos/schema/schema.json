@@ -413,6 +413,20 @@
                         }
                     ],
                     "enum": ["enabled", "disabled"]                
+                },
+                "dataLossPrevention": {
+                    "default": "disabled",
+                    "title": "Use Data Loss Prevention",
+                    "type": "string",
+                    "propertyOrder": 20,
+                    "description": "Whether data loss prevention enforcement is enabled on the machine.",
+                    "links": [
+                        {
+                            "href": "https://docs.microsoft.com/en-us/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide",
+                            "rel": "More information"
+                        }
+                    ],
+                    "enum": ["enabled", "disabled"]                
                 }
             }
         }

@@ -396,7 +396,7 @@
             }
         },
         "features": {
-            "title": "Optional Features",
+            "title": "Features",
             "propertyOrder": 50,
             "defaultProperties": [],
             "properties": {

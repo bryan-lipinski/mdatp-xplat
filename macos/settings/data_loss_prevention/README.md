@@ -1,7 +1,5 @@
 # Example Settings for Data Loss Prevention
 
-Files in this directory contain the settings appropriate for a Data Loss Prevention standalone install.
-
 |File                            |Description|
 |--------------------------------|-----------|
 |com.microsoft.wdav.mobileconfig |Microsoft Endpoint Technologies settings appropriate for a Data Loss Prevention standalone deployment|
